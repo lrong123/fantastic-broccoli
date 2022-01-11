@@ -1,6 +1,7 @@
 # Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,gateway.facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
